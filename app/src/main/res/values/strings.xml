@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vizeodev</string>
+    <string name="txt">Mert Furkan ÖZEL</string>
+    <string name="txt2">201813709016</string>
+    <string name="tv5">Is</string>
+    <string name="tv6">Arkadas</string>
+    <string name="tv7">Akraba</string>
+    <string name="rb1">Akraba</string>
+    <string name="rb2">Arkadas</string>
+    <string name="rb3">Is</string>
+    <string name="Buttn">Gonder</string>
+    <string name="Buttn2">Sms Ekranı</string>
+    <string name="tml_string">Mesajınızı Buraya yazın...</string>
+    <string name="textview">TextView</string>
+</resources>
